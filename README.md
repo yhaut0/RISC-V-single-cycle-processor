@@ -16,3 +16,8 @@ ADD, SUB, AND, OR, XOR, SLL, SRL<br/>
 - **I type Instructions**<br/>
 Immediate-based arithmetic and logical operations such as,<br/>
 ADDI, ANDI, ORI, XORI<br/>
+
+## Reference <br/>
+This project was developed with reference to and inspiration from the work of another GitHub repository.<br/>
+While the overall design and implementation were carried out independently, certain structural ideas and design approaches were informed by the following open-source project:<br/>
+- [govardhnn / RISC_V_Single_Cycle_Processor](https://github.com/govardhnn/RISC_V_Single_Cycle_Processor?tab=readme-ov-file)
